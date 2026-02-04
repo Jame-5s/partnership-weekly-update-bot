@@ -1,1 +1,13 @@
-
+/prompts
+  weekly_team_update.md
+/templates
+  slack_message_template.md
+/config
+  sources.yaml
+/archive
+  2026-W06.md
+/src
+  fetch_glean.py
+  summarize.py
+  post_slack.py
+  main.py
